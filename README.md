@@ -1,7 +1,7 @@
 # MiLNet
 Code and result about MiLNet(IEEE TIP)<br>
 'MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation' [IEEE TIP](https://ieeexplore.ieee.org/document/10908980)
-![image](![image](./Overview/MiLNet.jpg)
+![image](./Overview/MiLNet.jpg)
 
 # Requirements
 conda env create -f environment.yaml
