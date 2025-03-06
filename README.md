@@ -1,7 +1,7 @@
 # MiLNet
 Code and result about MiLNet(IEEE TIP)<br>
 'MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation' [IEEE TIP](https://ieeexplore.ieee.org/document/10908980)
-![image](![image](https://github.com/user-attachments/assets/ae6bf540-e401-4551-8a37-cc9246762023.png)
+![image](![image](./Overview/MiLNet.jpg)
 )
 
 # Requirements
