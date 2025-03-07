@@ -21,6 +21,9 @@ conda env create -f environment.yaml
   title={MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation}, <br>
   author={Liu, Jinfu and Liu, Hong and Li, Xia and Ren, Jiale and Xu, Xinhua}, <br>
   journal={IEEE Transactions on Image Processing}, <br>
+  volume={},<br>
+  number={}, <br>
+  pages={1-14},<br>
   year={2025}, <br>
   doi={10.1109/TIP.2025.3544484}}, <br>
 }
