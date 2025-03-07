@@ -1,37 +1,66 @@
-# MiLNet
-Code and result about MiLNet(IEEE TIP)<br>
-MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation [IEEE TIP](https://ieeexplore.ieee.org/document/10908980)
-![image](./Overview/MiLNet.jpg)
+# 📌 MiLNet
 
-# Requirements
+### Multiplex Interactive Learning Network for RGB-T Semantic Segmentation ([IEEE TIP](https://ieeexplore.ieee.org/document/10908980))
+
+🚀 Code and results for **MiLNet** (Published in IEEE TIP)
+
+![MiLNet Overview](./Overview/MiLNet.jpg)
+
+---
+
+## 🔧 Requirements
+```bash
 conda env create -f environment.yaml
+```
 
-# Dataset and Evaluate tools
+---
 
- The MFNet datesets for RGB-T semantic segmentation could be found in [Google_MFNET](https://drive.google.com/file/d/11dqniIYqBMnuRnrVbC4v-62dEm_O9PIx/view?usp=sharing) <br>
- (We also provide the label.) , <br>
- The PST900 datesets for RGB-T semantic segmentation could be found in [Google_PST](https://drive.google.com/file/d/1fx_QPzwfaEPnWcDXg94DfNYbQtC9y4Ip/view?usp=sharing) <br>
+## 📂 Dataset and Evaluation Tools
 
-# Pretrained model & Result
-[Backbone]Pretrained model download:[Google_backbone](https://drive.google.com/file/d/1J1GtZSzUcJoWni9ja7uf3h7wgNnIHDAG/view?usp=sharing) <br>
-[MFNet]Pretrained model download:[Google_mfnet_pretrained](https://drive.google.com/file/d/1UIr0eMEGlGcECMmlgjN7O4YQMFYl7I2a/view?usp=sharing), and Predict results download:[GoogleGrive_mfnet_results](https://drive.google.com/file/d/1w0bhA6H39oubk8qo4ttnC7Xt7hm53lf5/view?usp=sharing) <br>
-[Pst900]Pretrained model download:[GoogleGrive_pst_pretrained](https://drive.google.com/file/d/1vQKPQPmvZppuFmY5yliltNZ0VojoOL0V/view?usp=sharing), and Predict results download:[GoogleGrive_pst_results](https://drive.google.com/file/d/19rGER7YSv9POyMTphI1QSeL-8FGcVLgS/view?usp=sharing) <br>
+🔹 **MFNet Dataset** (for RGB-T semantic segmentation): [Google Drive](https://drive.google.com/file/d/11dqniIYqBMnuRnrVbC4v-62dEm_O9PIx/view?usp=sharing) *(Labels included)*
 
-# Citation
-@article{liu2025milnet, <br>
-  title={MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation}, <br>
-  author={Liu, Jinfu and Liu, Hong and Li, Xia and Ren, Jiale and Xu, Xinhua}, <br>
-  journal={IEEE Transactions on Image Processing}, <br>
-  volume={},<br>
-  number={}, <br>
-  pages={1-14},<br>
-  year={2025}, <br>
-  doi={10.1109/TIP.2025.3544484}}, <br>
+🔹 **PST900 Dataset** (for RGB-T semantic segmentation): [Google Drive](https://drive.google.com/file/d/1fx_QPzwfaEPnWcDXg94DfNYbQtC9y4Ip/view?usp=sharing)
+
+---
+
+## 📥 Pretrained Models & Results
+
+📌 **Backbone Pretrained Model**: [Download](https://drive.google.com/file/d/1J1GtZSzUcJoWni9ja7uf3h7wgNnIHDAG/view?usp=sharing)
+
+📌 **MFNet**:
+- Pretrained Model: [Download](https://drive.google.com/file/d/1UIr0eMEGlGcECMmlgjN7O4YQMFYl7I2a/view?usp=sharing)
+- Prediction Results: [Download](https://drive.google.com/file/d/1w0bhA6H39oubk8qo4ttnC7Xt7hm53lf5/view?usp=sharing)
+
+📌 **PST900**:
+- Pretrained Model: [Download](https://drive.google.com/file/d/1vQKPQPmvZppuFmY5yliltNZ0VojoOL0V/view?usp=sharing)
+- Prediction Results: [Download](https://drive.google.com/file/d/19rGER7YSv9POyMTphI1QSeL-8FGcVLgS/view?usp=sharing)
+
+---
+
+## 📖 Citation
+If you find this project helpful, please cite:
+```bibtex
+@article{liu2025milnet,
+  title={MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation},
+  author={Liu, Jinfu and Liu, Hong and Li, Xia and Ren, Jiale and Xu, Xinhua},
+  journal={IEEE Transactions on Image Processing},
+  volume={},
+  number={},
+  pages={1-14},
+  year={2025},
+  doi={10.1109/TIP.2025.3544484}
 }
+```
 
-# Acknowledgement
-The implement of this project is based on the code of ‘MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation (https://github.com/2021nihao/MMSMCNet)’ proposed by Wujie Zhou and Han Zhang et all.
+---
 
-# Contact
-Please drop me an email for further problems or discussion: liujinfu@stu.pku.edu.cn
+## 🎖 Acknowledgement
+This project is implemented based on the code from **MMSMCNet**:
+[Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation](https://github.com/2021nihao/MMSMCNet) by **Wujie Zhou, Han Zhang et al.**
+
+---
+
+## 📬 Contact
+📩 For any inquiries or discussions, feel free to contact me at:
+**liujinfu@stu.pku.edu.cn**
 
