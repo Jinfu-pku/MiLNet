@@ -4,7 +4,7 @@
 
 🚀 Code and results for **MiLNet** (Published in IEEE TIP)
 
-![MiLNet Overview](./Overview/MiLNet.jpg)
+![MiLNet Overview](./Overview/MiLNet.png)
 
 ---
 
