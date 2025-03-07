@@ -8,14 +8,14 @@ conda env create -f environment.yaml
 
 # Dataset and Evaluate tools
 
- The MFNet datesets for RGB-T semantic segmentation could be found in [GoogleGrive](https://drive.google.com/file/d/11dqniIYqBMnuRnrVbC4v-62dEm_O9PIx/view?usp=sharing) <br>
+ The MFNet datesets for RGB-T semantic segmentation could be found in [Google_MFNET](https://drive.google.com/file/d/11dqniIYqBMnuRnrVbC4v-62dEm_O9PIx/view?usp=sharing) <br>
  (We also provide the label.) , <br>
- The PST900 datesets for RGB-T semantic segmentation could be found in [GoogleGrive](https://drive.google.com/file/d/1fx_QPzwfaEPnWcDXg94DfNYbQtC9y4Ip/view?usp=sharing) <br>
+ The PST900 datesets for RGB-T semantic segmentation could be found in [Google_PST](https://drive.google.com/file/d/1fx_QPzwfaEPnWcDXg94DfNYbQtC9y4Ip/view?usp=sharing) <br>
 
 # Pretrained model & Result
-[Backbone]Pretrained model download:[GoogleGrive](https://drive.google.com/file/d/1J1GtZSzUcJoWni9ja7uf3h7wgNnIHDAG/view?usp=sharing) <br>
-[MFNet]Pretrained model download:[GoogleGrive](https://drive.google.com/file/d/1w0bhA6H39oubk8qo4ttnC7Xt7hm53lf5/view?usp=sharing), and Predict results download:[GoogleGrive](https://drive.google.com/file/d/1UIr0eMEGlGcECMmlgjN7O4YQMFYl7I2a/view?usp=sharing)   <br>
-[Pst900]Pretrained model download:[GoogleGrive](https://drive.google.com/file/d/19rGER7YSv9POyMTphI1QSeL-8FGcVLgS/view?usp=sharing), and Predict results download:[GoogleGrive](https://drive.google.com/file/d/1vQKPQPmvZppuFmY5yliltNZ0VojoOL0V/view?usp=sharing)  <br>
+[Backbone]Pretrained model download:[Google_backbone](https://drive.google.com/file/d/1J1GtZSzUcJoWni9ja7uf3h7wgNnIHDAG/view?usp=sharing) <br>
+[MFNet]Pretrained model download:[Google_mfnet_pretrained](https://drive.google.com/file/d/1UIr0eMEGlGcECMmlgjN7O4YQMFYl7I2a/view?usp=sharing), and Predict results download:[GoogleGrive_mfnet_results](https://drive.google.com/file/d/1w0bhA6H39oubk8qo4ttnC7Xt7hm53lf5/view?usp=sharing) <br>
+[Pst900]Pretrained model download:[GoogleGrive_pst_pretrained](https://drive.google.com/file/d/1vQKPQPmvZppuFmY5yliltNZ0VojoOL0V/view?usp=sharing), and Predict results download:[GoogleGrive_pst_results](https://drive.google.com/file/d/19rGER7YSv9POyMTphI1QSeL-8FGcVLgS/view?usp=sharing) <br>
 
 # Citation
 @article{liu2025milnet, <br>
