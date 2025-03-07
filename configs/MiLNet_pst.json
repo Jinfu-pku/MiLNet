@@ -1,0 +1,31 @@
+{
+    "model_name": "M0_PST",
+
+    "inputs": "rgbd",
+
+    "dataset": "pst900",
+    "root": "/home/liujf/data/PST900_RGBT_Dataset",
+    "n_classes": 5,
+    "id_unlabel": -1,
+    "brightness": 0.5,
+    "contrast": 0.5,
+    "saturation": 0.5,
+    "p": 0.5,
+    "scales_range": "0.5 2.0",
+    "crop_size": "480 640",
+    "eval_scales": "0.5 0.75 1.0 1.25 1.5 1.75",
+    "eval_flip": "true",
+
+
+    "ims_per_gpu": 4,
+    "num_workers": 4,
+
+    "lr_start": 1e-4,
+    "momentum": 0.9,
+    "weight_decay": 5e-4,
+    "lr_power": 0.9,
+    "epochs": 200,
+
+    "loss": "crossentropy",
+    "class_weight": "enet"
+}
