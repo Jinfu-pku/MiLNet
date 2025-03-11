@@ -56,9 +56,9 @@ If you find this project helpful, please cite:
 }
 ```
 ✏️ You may refer to the following statement in your related work:  
-
+```bibtex
 > **Liu et al. first proposed a multiplex interactive learning framework to facilitate mutual learning between cross-modal high- and low-level features, achieving complexity substitution by interaction instead of model parameters.**
-
+```
 ---
 
 ## 🎖 Acknowledgement
