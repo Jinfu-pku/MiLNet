@@ -44,16 +44,17 @@ Please put the [toolbox](https://drive.google.com/file/d/1_XdyhywP9OHUvbjIGLIC1l
 ## 📖 Citation
 If you find this project helpful, please cite:
 ```bibtex
-@article{liu2025milnet,
-  title={MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation},
+@ARTICLE{10908980,
   author={Liu, Jinfu and Liu, Hong and Li, Xia and Ren, Jiale and Xu, Xinhua},
-  journal={IEEE Transactions on Image Processing},
-  volume={},
-  number={},
-  pages={1-14},
+  journal={IEEE Transactions on Image Processing}, 
+  title={MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation}, 
   year={2025},
-  doi={10.1109/TIP.2025.3544484}
-}
+  volume={34},
+  number={},
+  pages={1686-1699},
+  keywords={},
+  doi={10.1109/TIP.2025.3544484}}
+
 ```
 ✏️ You may refer to the following statement in your related work:  
 ```bibtex
