@@ -44,7 +44,7 @@ Please put the [toolbox](https://drive.google.com/file/d/1_XdyhywP9OHUvbjIGLIC1l
 ## 📖 Citation
 If you find this project helpful, please cite:
 ```bibtex
-@ARTICLE{10908980,
+@ARTICLE{ljf2025milnet,
   author={Liu, Jinfu and Liu, Hong and Li, Xia and Ren, Jiale and Xu, Xinhua},
   journal={IEEE Transactions on Image Processing}, 
   title={MiLNet: Multiplex Interactive Learning Network for RGB-T Semantic Segmentation}, 
